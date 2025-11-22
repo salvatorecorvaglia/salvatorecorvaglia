@@ -1,4 +1,4 @@
-### Hello there, I'am Salvatore 👋
+### Hello there, I'm Salvatore 👋
 
 #### Technical Lead | Team Leader | Software Engineer | Blockchain & Crypto Enthusiast
 
