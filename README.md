@@ -9,7 +9,6 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 ### 🚀 Featured Projects
 
 - 🛋️ **[Salotto](https://github.com/salvatorecorvaglia/salotto)** — Secure, self-hosted, real-time team communication platform
-- 🛡️ **[Custodia](https://github.com/salvatorecorvaglia/custodia)** — Continuous software supply chain security, vulnerability & license compliance monitoring
 - 🌿 **[Basilico](https://github.com/salvatorecorvaglia/basilico)** — Fast, modern, and beautiful Git GUI client
 - 🖼️ **[Objectra](https://github.com/salvatorecorvaglia/objectra)** — Self-hosted, high-performance S3-compatible object storage server with web console
 - 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor for Linux, BSD, macOS, and Windows
