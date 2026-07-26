@@ -15,8 +15,8 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 - 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor for Linux, BSD, macOS, and Windows
 - 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
 - 🌙 **[Lunar](https://github.com/salvatorecorvaglia/lunar)** — Cross-platform remote & local workflow workstation
-- 📜 **[Notarion](https://github.com/salvatorecorvaglia/notarion)** — Decentralized document notarization & IPFS storage anchored on Ethereum
 - 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
+- 📜 **[Notarion](https://github.com/salvatorecorvaglia/notarion)** — Decentralized document notarization & IPFS storage anchored on Ethereum
 - 🔐 **[Kryptx](https://github.com/salvatorecorvaglia/kryptx)** — Lightweight, zero-dependency terminal password manager in Pure Bash
 
 ---
