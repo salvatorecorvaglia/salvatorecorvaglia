@@ -8,7 +8,7 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 
 <p><strong><font size="5">🚀 Featured Projects</font></strong></p>
 
-- 📦 **[Panorama](https://github.com/salvatorecorvaglia/panorama)** — Universal visual package manager for VS Code
+- 📦 **[Panorama](https://github.com/salvatorecorvaglia/panorama)** — Universal Visual Package Manager for VS Code
 - 🛋️ **[Salotto](https://github.com/salvatorecorvaglia/salotto)** — Secure, self-hosted, real-time team communication platform
 - 🌿 **[Basilico](https://github.com/salvatorecorvaglia/basilico)** — Fast, modern, and beautiful Git GUI client
 - 🖼️ **[Stiva](https://github.com/salvatorecorvaglia/stiva)** — Self-hosted, high-performance S3-compatible object storage server with web console
