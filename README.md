@@ -13,7 +13,7 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 - 🖼️ **[Stiva](https://github.com/salvatorecorvaglia/stiva)** — Self-hosted, high-performance S3-compatible object storage server with web console
 - 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor for Linux, BSD, macOS, and Windows
 - 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
-- 🌙 **[Lunar](https://github.com/salvatorecorvaglia/lunar)** — Cross-platform remote & local workflow workstation
+- 🌙 **[Luna](https://github.com/salvatorecorvaglia/luna)** — Cross-platform remote & local workflow workstation
 - 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
 - 📜 **[Notarion](https://github.com/salvatorecorvaglia/notarion)** — Decentralized document notarization & IPFS storage anchored on Ethereum
 - 🔐 **[Custode](https://github.com/salvatorecorvaglia/custode)** — Lightweight, zero-dependency terminal password manager in Pure Bash
