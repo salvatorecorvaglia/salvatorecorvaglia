@@ -6,18 +6,6 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 
 ---
 
-<p><strong><font size="5">🚀 Featured Projects</font></strong></p>
-
-- 🌙 **[Luna](https://github.com/salvatorecorvaglia/luna)** — Cross-platform remote & local workflow workstation
-- 🌿 **[Basilico](https://github.com/salvatorecorvaglia/basilico)** — Fast, modern, and beautiful Git GUI client
-- 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
-- 🖼️ **[Stiva](https://github.com/salvatorecorvaglia/stiva)** — Self-hosted, high-performance S3-compatible object storage server with web console
-- 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor for Linux, BSD, macOS, and Windows
-- 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
-- 📜 **[Sigillo](https://github.com/salvatorecorvaglia/sigillo)** — Decentralized document notarization & IPFS storage anchored on Ethereum
-
----
-
 <p><strong><font size="5">☕ Support My Work</font></strong></p>
 
 <a href="https://buymeacoffee.com/salvatorecorvaglia" target="_blank">
