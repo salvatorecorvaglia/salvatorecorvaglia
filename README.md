@@ -6,6 +6,14 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 
 ---
 
+<p><strong><font size="5">🚀 Featured Projects</font></strong></p>
+
+- 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor with TUI, web dashboard, and remote monitoring
+- 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
+- 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
+
+---
+
 <p><strong><font size="5">☕ Support My Work</font></strong></p>
 
 <a href="https://buymeacoffee.com/salvatorecorvaglia" target="_blank">
