@@ -14,6 +14,7 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 - 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor with TUI, web dashboard, and remote monitoring
 - 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
 - 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
+- 🔐 **[Custode](https://github.com/salvatorecorvaglia/custode)** — A lightweight, zero-dependency, highly secure terminal-based password manager written in Pure Bash
 
 ---
 
