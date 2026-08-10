@@ -8,6 +8,7 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 
 <p><strong><font size="5">🚀 Featured Projects</font></strong></p>
 
+- 🔭 **[Panorama](https://github.com/salvatorecorvaglia/panorama)** — Universal Visual Package Manager for Visual Studio Code
 - ⚓ **[Faro](https://github.com/salvatorecorvaglia/faro)** — Fast, clean, cross-platform database client
 - 🌿 **[Basilico](https://github.com/salvatorecorvaglia/basilico)** — Fast, modern and beautiful Git GUI client
 - 🌙 **[Luna](https://github.com/salvatorecorvaglia/luna)** — Cross-platform remote & local workflow workstation
