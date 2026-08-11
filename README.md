@@ -14,7 +14,7 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 - 🌙 **[Luna](https://github.com/salvatorecorvaglia/luna)** — Cross-platform remote & local workflow workstation
 - 🖼️ **[Stiva](https://github.com/salvatorecorvaglia/stiva)** — Self-hosted, high-performance S3-compatible object storage server with web console
 - 🐦‍⬛ **[Raven](https://github.com/salvatorecorvaglia/raven)** — Cross-platform system monitor with TUI, web dashboard, and remote monitoring
-- 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — Terminal-native, keyboard-first async database IDE
+- 📟 **[Teridex](https://github.com/salvatorecorvaglia/teridex)** — A terminal-first database workspace for modern engineers
 - 🎯 **[Accessio](https://github.com/salvatorecorvaglia/accessio)** — Fast, flexible, zero-dependency modern HTTP client for JS/TS
 
 ---
