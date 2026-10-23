@@ -14,9 +14,9 @@ Technical Lead at [Parsec 3.26](https://www.parsec326.it/)
 - 🌿 [Basilico](https://github.com/salvatorecorvaglia/basilico) - Fast, modern and beautiful Git GUI client
 - 🌙 [Luna](https://github.com/salvatorecorvaglia/luna) - Cross-platform remote & local workflow workstation
 - 🔭 [Orizzonte](https://github.com/salvatorecorvaglia/orizzonte) - Universal Visual Package Manager for Visual Studio Code
-- 🖼️ [Stiva](https://github.com/salvatorecorvaglia/stiva) - Self-hosted, high-performance S3-compatible object storage server with web console
+- 🖼️ [Stiva](https://github.com/salvatorecorvaglia/stiva) | [Stiva Browser](https://github.com/salvatorecorvaglia/stiva-browser) - Self-hosted S3 storage and standalone web client
 - 📟 [Registro](https://github.com/salvatorecorvaglia/registro) - A terminal-first database workspace for modern engineers
-- 🐦‍⬛ [Sentinella](https://github.com/salvatorecorvaglia/sentinella) - Cross-platform system monitor with TUI, web dashboard, and remote monitoring
+- 🔔 [Sentinella](https://github.com/salvatorecorvaglia/sentinella) - System monitoring with terminal and web dashboards
 - 🚚 [Corriere](https://github.com/salvatorecorvaglia/corriere) - Fast, flexible, zero-dependency modern HTTP client for JS/TS
 
 ---
